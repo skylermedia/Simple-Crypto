@@ -107,7 +107,7 @@ struct CoinDetailModel: Codable {
     enum CodingKeys: String, CodingKey {
         case id, symbol, name, description, links
         case blockTimeInMinutes = "block_time_in_minutes"
-        case hashingAlgorithm = "hashing_algorithm"
+        case hashingAlgorithm = "hashing_algorith"
     }
     
     var readableDescription: String? {
