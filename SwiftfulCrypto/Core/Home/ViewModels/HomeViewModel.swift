@@ -138,9 +138,9 @@ class HomeViewModel: ObservableObject {
             return stats
         }
         
-        let marketCap = StatisticModel(title: "Market Cap", value: data.marketCap, percentageChange: data.marketCapChangePercentage24HUsd)
+        let marketCap = StatisticModel(title: "Market Cap.", value: data.marketCap, percentageChange: data.marketCapChangePercentage24HUsd)
         let volume = StatisticModel(title: "24h Volume", value: data.volume)
-        let btcDominance = StatisticModel(title: "BTC Dominance", value: data.btcDominance)
+        let btcDominance = StatisticModel(title: "Market BTC Dominance", value: data.btcDominance)
         
         let portfolioValue =
             portfolioCoins
