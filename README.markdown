@@ -48,7 +48,7 @@ To run or build Simple-Crypto, you'll need:
 
 ## 🤝 Contributing
 
-We welcome contributions to make Simple-Crypto even better! 🌟
+I welcome contributions to make Simple-Crypto even better! 🌟
 
 1. **Fork the Repository:**
    - Click the "Fork" button on GitHub.
