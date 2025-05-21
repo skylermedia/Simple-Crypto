@@ -1,36 +1,23 @@
 # 🚀 Simple-Crypto
 
-Simple-Crypto is a user-friendly iOS application built with Swift that allows you to easily search for cryptocurrencies and manage your portfolio. With a clean interface and straightforward functionality, it's perfect for both beginners and experienced crypto enthusiasts!
+Simple-Crypto is a user-friendly iOS application built with Swift that allows you to easily search for cryptocurrencies and manage your portfolio!
+P.S. - I'm working on a better name!!
 
 ## ✨ Features
 
 - 🔍 **Easy Cryptocurrency Searching:** Quickly find information on various cryptocurrencies.
-- 📊 **Portfolio Management:** Add and track your cryptocurrency investments with ease.
-- 🖥️ **Intuitive Interface:** A clean and simple design for a seamless user experience.
-
-## 🎮 Usage
-
-To use Simple-Crypto, you need to build and run the app using Xcode. Follow the steps below:
-
-1. **Build and Run the App:**
-   - Follow the instructions in the "Building From Source" section to run the app on your iOS device or simulator.
-
-2. **Search for Cryptocurrencies:**
-   - Once the app is running, use the search bar to find information on specific cryptocurrencies.
-
-3. **Manage Your Portfolio:**
-   - Add cryptocurrencies to your portfolio to track their performance.
+- 📊 **Portfolio Management:** It's very easy to add even complex portfolios to Simple-Crypto
+- 🖥️ **Intuitive Interface:** This app is honestly beautiful.
 
 ## 🛠️ Prerequisites
 
 To run or build Simple-Crypto, you'll need:
 
-- 🍎 **macOS:** Required for Xcode.
-- 🛠️ **Xcode:** Download from the Mac App Store.
-- 📱 **iOS Device or Simulator:** To run the app.
-- 🌐 **Git:** To clone the repository.
+- 🍎 **macOS:** Required for Xcode
+- 🛠️ **Xcode:** Download from the Mac App Store
+- 🌐 **Git:** To clone the repository
 
-## 📥 Building From Source
+## 📥 Building Simple-Crypto
 
 1. **Clone the Repository:**
 
@@ -40,7 +27,7 @@ To run or build Simple-Crypto, you'll need:
    ```
 
 2. **Open the Project in Xcode:**
-   - Open `Simple-Crypto.xcodeproj` in Xcode.
+   - Open `SwiftfulCrypto.xcodeproj` in Xcode.
 
 3. **Build and Run:**
    - Select your target device (simulator or physical device).
@@ -57,7 +44,7 @@ To run or build Simple-Crypto, you'll need:
   - Check the console logs in Xcode for error messages.
 
 - **Search Issues:**
-  - Ensure you have an active internet connection, as the app may fetch data from online sources.
+  - Ensure you have an active internet connection, as the app fetches data from CoinGecko.
 
 ## 🤝 Contributing
 
@@ -91,4 +78,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🙌 Acknowledgments
 
-- Built with ❤️ using Swift by Skyler Szijjarto.
+- Built with ❤️ using Swift by Skyler Szijjarto from a tutorial (link coming soon).
